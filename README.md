@@ -38,7 +38,7 @@ I’m a senior working on a bachelor’s in computer science. Most of my experie
 I'm an Applied Computer Science major and a software development intern. I began a career in computer science through hobbyist game development using Game Maker and Unity, so my most familiar language is in C# and I have a special fondness for optimization, but I am familiar with Java and SQL as well thanks to education. Beyond my professional life, I enjoy writing, event organization, nights out with friends, and of course games.
 
 **Ritu - SCRUM Master**
-Hello, My name is Ritu. I'm a Junior with a CS major and a business minor at EMU. I'm proficient in Java, JavaScript, Python, HTML/CSS. I love travelling. I'm passionate about Software Development, sports, and exploring different countries.
+Hello, My name is Ritu. I'm a Junior with a CS major and a business minor at EMU. I'm proficient in Java, JavaScript, Python, HTML/CSS. I love travelling. I'm passionate about Software Development, sports, and exploring different countries. Interesting fact about me, I am learning how to swim, but I know how to row perfectly!
 
 **David Goh - Deployment Specialist**
 I am an undergraduate junior pursuing a Computer Science Curriculum degree in EMU, alongside a potential Math major/minor in the workings. I am most proficient in the programming languages python & java, and is familiar with neural networks in general, particularly with PyTorch.
