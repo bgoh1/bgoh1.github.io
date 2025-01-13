@@ -43,5 +43,8 @@ Hello, My name is Ritu. I'm a Junior with a CS major and a business minor at EMU
 **David Goh - Deployment Specialist**
 I am an undergraduate junior pursuing a Computer Science Curriculum degree in EMU, alongside a potential Math major/minor in the workings. I am most proficient in the programming languages python & java, and is familiar with neural networks in general, particularly with PyTorch.
 
+**Mohamad Tiba - Deployment Specialist**
+Hello my name is Mohamad Tiba and I am currently a computer science major over at Eastern Michigan University. I am really interested in cars and video games, which is what sparked my interest in computer science. I’ve felt that I’ve always been good at problem solving and even when faced with a problem that I have no idea how to fix I’m usually pretty good at finding the solution. I have been dabbling in crafting websites, games, and general applications in Java, JavaScript, and Python. I am very excited to be working on an interactive game involving chess this semester!
+
 **Durva Kadam - Secretary**
 Hi, I'm Durva Kadam, a junior majoring in Data Science and Analytics at Eastern Michigan University. I enjoy exploring new music, dancing, and baking in my free time. Technically, I’m skilled in R, Java, Python, and HTML, and I especially enjoy working with Python and HTML. I’m passionate about using data to uncover insights and drive meaningful solutions, and I look forward to growing as a professional in the data science field.
