@@ -13,15 +13,6 @@ const config = {
     scene: [StartScene],
 };
 
-const configGameScene = {
-    type: AUTO,
-    width: 1024,
-    height: 768,
-    parent: "game-container",
-    backgroundColor: "#028af8",
-    scene: [MainGame],
-};
-
 const StartGame = (parent) => {
     return new Game({ ...config, parent });
 };

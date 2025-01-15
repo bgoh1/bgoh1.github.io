@@ -18,11 +18,7 @@ function App() {
         <div id="app">
             <PhaserGame ref={phaserRef} />
             <div>
-                <div>
-                    <button className="button" onClick={startGame}>
-                        Start Game
-                    </button>
-                </div>
+                <div></div>
             </div>
         </div>
     );
