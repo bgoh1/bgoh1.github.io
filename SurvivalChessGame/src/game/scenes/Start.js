@@ -1,6 +1,5 @@
 import { Scene } from "phaser";
 import { EventBus } from "../EventBus";
-import { Game as MainGame } from "/Users/rianakt/Documents/school/COSC 481W/SurvivalChess/SurvivalChessGame/src/game/scenes/Game.js";
 
 export class Start extends Scene {
     constructor() {
